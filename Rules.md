@@ -16,5 +16,4 @@ If you want to speak a language which is not English, You will have to send a me
 ## Finally
 **Have fun!**
 
-Contributors: mkaraki, awkward 
 Copyright 2019 TechServer Management Team.
